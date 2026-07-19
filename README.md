@@ -100,7 +100,7 @@ Workflow demonstrated:
 │   └── Opex2023.txt
 │   └── .
 │   └── .
-│   └── .... so on
+│   └── ..... so on
 │
 ├── Sample Output
 │   └── Text_file_to_Excel_file _Importing_Template
